@@ -25,7 +25,7 @@ re, requests, print_function, sys
 
 Install/Usage:
 
-$ git clone https://github.com/IDSninja/hma-scraper
+$ git clone https://github.com/skyforstle1989/hma-scraper
 $ cd hma-scraper
 $ python hma-scraper.py <number of pages to scrape> > proxylist.txt
 $ python hma-scraper.py 107 > proxylist.txt
